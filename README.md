@@ -11,6 +11,8 @@ These are my personal lecture notes based on the MIT OpenCourseWare (OCW) Quantu
 ## Disclaimer
 These notes are unofficial and were written as a personal study tool. While they aim to accurately reflect the content taught in the MIT OCW lectures, they may contain errors or omissions. Please cross-reference with the official lecture materials and textbooks for the most accurate and detailed explanations.
 
+These notes were created using **Obsidian**, a markdown-based knowledge management tool. As a result, some formatting or features might not render as expected in other markdown viewers. If certain elements appear misaligned or broken, the notes may be opened in Obsidian for the intended layout and functionality.
+
 ## Acknowledgements
 - Special thanks to Prof. **Hong Liu** and MIT OCW for making these lectures and materials freely available online.
 - The notes are compiled based on my understanding of the lectures and readings from Peskin and Schroeder.

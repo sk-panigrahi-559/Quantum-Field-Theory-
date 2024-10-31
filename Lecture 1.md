@@ -42,7 +42,7 @@
 - Canonical Momentum Density $$\Pi(\vec{x},t) = \frac{\partial\mathscr{L}}{\partial \dot \phi_a(\vec{x},t)} $$
 - Hamiltonian Density $$\mathscr{H} = \dot\phi\Pi_a -\mathscr{L}$$ $a$ is summed over : Enstein's Convention of repeated indices.
 	- EOM: $\delta S =0$ $$\Rightarrow S = \int  dt L = \int d^4 x \mathscr{L}(\phi_a,\partial_\mu\phi_a) $$ $$\Rightarrow\delta S = \int d^4x \left[\frac{\partial\mathscr{L}}{\partial\phi_a} \delta\phi_a+\frac{\partial \mathscr{L}}{\partial(\partial_\mu \phi_a)}\delta(\partial_\mu \phi_a)\right]$$ $$\Rightarrow\delta S = \int d^4x \left[\frac{\partial\mathscr{L}}{\partial\phi_a} \delta\phi_a+\frac{\partial \mathscr{L}}{\partial(\partial_\mu \phi_a)}\partial_\mu(\delta \phi_a)\right]$$ $$\Rightarrow\delta S = \int d^4x \left[\frac{\partial\mathscr{L}}{\partial\phi_a} -\partial_\mu\left(\frac{\partial \mathscr{L}}{\partial(\partial_\mu \phi_a)}\right)\right]\delta\phi_a + BT$$ BT : Boundary terms
-	- We always choose $\delta \phi_a$ s.t. BT $\rightarrow$ 0 $$\delta S = 0$$$$\Rightarrow\frac{\partial\mathscr{L}}{\partial\phi_a} -\partial_\mu\left(\frac{\partial \mathscr{L}}{\partial(\partial_\mu \phi_a)}\right)=0$$
+	- We always choose $\delta \phi_a$ s.t. BT $\rightarrow$ 0 $$\delta S = 0$$ $$\Rightarrow\frac{\partial\mathscr{L}}{\partial\phi_a} -\partial_\mu\left(\frac{\partial \mathscr{L}}{\partial(\partial_\mu \phi_a)}\right)=0$$
 	- For simplicity we consider
 		- Translational invariance
 		- Lorentz invariance
@@ -66,7 +66,7 @@
 > where $\mathscr{L}$ = quantity inside \[]
 > $\partial_\mu\Phi\partial^\mu\Phi = -\dot\Phi^2 + (\nabla\Phi)^2$ 
 > Hamiltonian density,
-> $$ \mathscr{H} =\Pi\dot\Phi -\mathscr{L} = \frac{\Pi^2}{2} + \frac{1}{2}(\nabla\Phi)^2 + V(\Phi) $$
+> $$\mathscr{H} =\Pi\dot\Phi -\mathscr{L} = \frac{\Pi^2}{2} + \frac{1}{2}(\nabla\Phi)^2 + V(\Phi) $$
 > EOM: $$\partial^2\Phi-\frac{\partial V}{\partial \Phi} =0 $$
 > where $\partial^2 = \partial_\mu\partial^\mu= -\partial_t^2+\nabla^2$
 > simplest form : $V(\Phi)= f\Phi$ f is constant
